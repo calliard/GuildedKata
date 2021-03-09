@@ -1,0 +1,1 @@
+For This I did most refactoring I felt necessary. I didn't want to m ake the program longer than it needed to be because some changes I felt weren't honestly needed. The new function I added was for a legendary weapon and it is a secret.
